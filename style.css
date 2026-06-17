@@ -2,7 +2,7 @@ body{
     margin: 0;
      padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(244, 142, 25);
+    background-color: rgba(244, 142, 25, 0.904);
     color: rgba(1, 0, 0, 0.897);
     
 }
