@@ -19,4 +19,5 @@ h1 {
 
 .imagem {
     width: 35%;
+    display: block;
 }
